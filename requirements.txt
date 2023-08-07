@@ -1,0 +1,6 @@
+matplotlib
+pandas
+poetry
+requests
+scikit-learn
+scikit-learn-intelex
